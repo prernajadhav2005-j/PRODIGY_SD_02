@@ -31,5 +31,9 @@ PRODIGY_SD_02
  - The game ends when the correct number is guessed.
  - The user can reset the game to play again.
 
+5. Result:- https://github.com/user-attachments/assets/aa0b57d8-272b-408e-a0e4-c7f6b356b0bb
+6. Author:- Prerna Jadhav
+     Software Development Intern
+
    
 
